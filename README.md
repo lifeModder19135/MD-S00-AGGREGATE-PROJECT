@@ -11,4 +11,4 @@ To this end, Only Services that have passed target tests and been approved as 'r
 
 ### VERSIONING:
 
-A seperate fork will be created for each Version of the M&D Build, starting with V 0.0.1.   Each fork will be archived with only thosre services that were included in that version of the application.
+A seperate fork will be created for each Version of the M&D Build, starting with V 0.0.1.   Each fork will be archived with only those services which were included in that version of the application.
